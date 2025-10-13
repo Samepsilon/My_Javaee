@@ -1,5 +1,4 @@
 A simple Java EE 7 Sample
-tests
 =========================
 
 This is a trivial Java EE 7 sample.
