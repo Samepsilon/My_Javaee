@@ -1,4 +1,5 @@
 package org.javaee7.sample;
+// comment1
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
